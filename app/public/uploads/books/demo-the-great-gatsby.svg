@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900" role="img" aria-label="Demo cover for THE GREAT GATSBY">
+<rect width="600" height="900" fill="#102A43"/>
+<rect x="38" y="38" width="524" height="824" rx="10" fill="none" stroke="#D6B35A" stroke-width="3"/>
+<circle cx="300" cy="170" r="70" fill="none" stroke="#D6B35A" stroke-width="3" opacity=".9"/>
+<circle cx="300" cy="170" r="48" fill="none" stroke="#D6B35A" stroke-width="2" opacity=".55"/>
+<path d="M210 170h180M300 80v180" stroke="#D6B35A" stroke-width="2" opacity=".45"/>
+<text x="300" y="305" text-anchor="middle" class="title">THE GREAT</text>
+<text x="300" y="350" text-anchor="middle" class="title">GATSBY</text>
+<line x1="150" y1="405" x2="450" y2="405" stroke="#D6B35A" stroke-width="2"/>
+<text x="300" y="485" text-anchor="middle" class="author">F. Scott Fitzgerald</text>
+<g opacity=".25" fill="none" stroke="#D6B35A" stroke-width="2">
+  <path d="M105 620c70-85 130-85 195 0s125 85 195 0"/>
+  <path d="M105 655c70-85 130-85 195 0s125 85 195 0"/>
+  <path d="M105 690c70-85 130-85 195 0s125 85 195 0"/>
+</g>
+<text x="300" y="800" text-anchor="middle" class="year">1925</text>
+<text x="300" y="838" text-anchor="middle" class="demo">DEMO CATALOG EDITION</text>
+<style>
+.title{font-family:Georgia,'Times New Roman',serif;font-size:43px;font-weight:700;letter-spacing:3px;fill:#D6B35A}
+.author{font-family:Arial,sans-serif;font-size:23px;letter-spacing:2px;fill:#D6B35A}
+.year{font-family:Georgia,serif;font-size:25px;fill:#D6B35A}
+.demo{font-family:Arial,sans-serif;font-size:12px;letter-spacing:3px;fill:#D6B35A;opacity:.75}
+</style>
+</svg>
